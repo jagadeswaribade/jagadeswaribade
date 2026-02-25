@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jagadeswari
 
 ## 💼 Professional Summary
-IT professional with **5.7 years of overall experience**, including **2.7 years in DevOps** and **3 years in Server & Storage validation and testing**.  
+IT professional with **5.7 years of overall experience**, including **4 years in DevOps** and **1.7 years in Server & Storage validation and testing**.  
 Strong hands-on expertise in **Terraform, AWS, Kubernetes, Docker, and CI/CD automation**.  
 Proven ability to **build, automate, and manage scalable, secure, high-availability cloud infrastructure**.  
 
